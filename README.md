@@ -1,6 +1,11 @@
-My pinned projects below include:
-- **credit-card-fraud** [Python, scikit-learn]: independent project to learn the practicalities of data science and usage of scikit-learn. 
-- **matrix** [C]: a simple library developed implementing fundamental matrix algorithms such as Gaussian elimination and various matrix decompositions.
+Here is some more information on my pinned projects below.
+
+#### credit-card-fraud [Python, scikit-learn]
+This is an independent project to learn the practicalities of data science and usage of scikit-learn, with references to the current literature on machine learning, developed in 
+my free time. In it, I construct various classification models with high levels of efficiency and discuss cutting-edge methods which could be used in future research on the dataset.
+
+#### matrix [C]
+A simple library developed implementing fundamental matrix algorithms such as Gaussian elimination and various matrix decompositions. The emphasis is on implementing the standard algorithms correctly with a relatively straightforward library interface.
 
 <!--
 **htlambley/htlambley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
