@@ -4,6 +4,10 @@ Here is some more information on my pinned projects below.
 This is an independent project to learn the practicalities of data science and usage of scikit-learn, with references to the current literature on machine learning, developed in 
 my free time. In it, I construct various classification models with high levels of efficiency and discuss cutting-edge methods which could be used in future research on the dataset. [View the project webpage](https://htlambley.github.io/credit-card-fraud/).
 
+### [ml_rs](https://github.com/htlambley/ml-rs) [Rust]
+A (work-in-progress) library implementing some fundamental machine learning algorithms (e.g. logistic regression). Linear algebra is done through bindings to BLAS and 
+LAPACK and so should be able to match the performance of comparable libraries in other languages.
+
 #### [matrix](https://github.com/htlambley/matrix) [C]
 A simple library developed implementing fundamental matrix algorithms such as Gaussian elimination and various matrix decompositions. The emphasis is on implementing the standard algorithms correctly with a relatively straightforward library interface.
 
