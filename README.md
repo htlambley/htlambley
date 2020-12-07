@@ -1,3 +1,5 @@
+I'm an undergraduate reading mathematics at the University of Warwick with a particular interest in machine learning and data science.
+
 Here is some more information on my pinned projects below.
 
 #### [credit-card-fraud](https://github.com/htlambley/credit-card-fraud) [Python, scikit-learn]
